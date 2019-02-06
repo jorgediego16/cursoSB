@@ -1,4 +1,4 @@
-package com.jorge.cursosb;
+package com.jorge.cursos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
