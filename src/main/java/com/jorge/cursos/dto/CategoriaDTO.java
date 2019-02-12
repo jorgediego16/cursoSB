@@ -32,8 +32,4 @@ public class CategoriaDTO implements Serializable {
 	public void setNome(String nome) {
 		this.nome = nome;
 	}
-
-	public static long getSerialversionuid() {
-		return serialVersionUID;
-	}
 }
